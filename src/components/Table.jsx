@@ -6,7 +6,7 @@ const Table = ({ sat }) => {
      <tr>
         <th>name</th>
         <th>type</th>
-        <th>date</th>
+        <th>Launch Date</th>
         <th>status</th>
      </tr>
      </thead>
